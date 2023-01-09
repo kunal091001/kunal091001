@@ -10,13 +10,13 @@
 <div align="center">
 
 
-
 <br/>
 
 ## Connect with me:
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/kunal-kukreja-9a16891b6/" target="blank"><img align="center" src="https://blog.linkedin.com/apps/settings/wcm/designs/linkedin/katy/global/clientlibs/resources/img/default-share.png" alt="KunalKukreja" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kunal-kukreja-9a16891b6/" target="blank"><img align="center" src="https://blog.linkedin.com/apps/settings/wcm/designs/linkedin/katy/global/clientlibs/resources/img/default-share.png" alt="KunalKukreja" height="30px" width="40px"/></a>
+
 
 </p>
